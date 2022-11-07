@@ -1,3 +1,4 @@
+# My web class
 <snippet>
   <content><![CDATA[
 # ${1:My-web-class}
