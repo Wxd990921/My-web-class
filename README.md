@@ -1,11 +1,11 @@
 # My-web-class
-Guessing-game
+##Guessing-game
 Using to learning HTML, CSS, and JavaScript.
 
-Usage
+##Usage
 Set a random to let people to guess in count times.
 
-Contributing
+##Contributing
 
 
  
